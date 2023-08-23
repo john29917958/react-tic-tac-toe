@@ -127,4 +127,14 @@ dist
 .yarn/unplugged
 .yarn/build-state.yml
 .yarn/install-state.gz
+/.pnp
 .pnp.*
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
